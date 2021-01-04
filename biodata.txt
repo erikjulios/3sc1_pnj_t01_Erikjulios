@@ -1,2 +1,4 @@
 NO.REG 	: 1920010067	
 Nama  	: Erikjulios 
+jurusan : Teknik informatika
+angkatan : 2019
